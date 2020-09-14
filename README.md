@@ -24,7 +24,7 @@ _OR_
 Documented with ☕ by [EthanThatOneKid](http://ethandavidson.com/), _Competition Manager 2020-2021_
 
 [discord-invite]: https://discord.gg/27Ke9ax
-[create-issue]: ../../issues/new
+[create-issue]: ../../issues/new?assignees=EthanThatOneKid&labels=question&template=question.md&title=%5BQUESTION%5D
 [closed-issues]: ../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc
 [ask-a-question-badge]: https://img.shields.io/github/issues-raw/ethanthatonekid/acm-competition-manager?label=💬%20Ask%20a%20Question
 [read-answered-questions-badge]: https://img.shields.io/github/issues-closed-raw/ethanthatonekid/acm-competition-manager?label=📚%20Read%20Answered%20Questions
