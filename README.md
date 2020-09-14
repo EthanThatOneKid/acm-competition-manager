@@ -3,9 +3,9 @@
 > A collection of resources created by the Competition Manager of California State University Fullerton's Association for Computing Machinery club.
 
 [![Discord](https://img.shields.io/discord/710225099923521558)](https://discord.gg/27Ke9ax)
-[https://img.shields.io/github/issues-raw/ethanthatonekid/acm-competition-manager](../../issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
-[https://img.shields.io/github/issues-closed-raw/ethanthatonekid/acm-competition-manager](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ethanthatonekid/acm-competition-manager)](https://github.com/ethanthatonekid/acm-competition-manager/commits)
+[![Open Issues](https://img.shields.io/github/issues-raw/ethanthatonekid/acm-competition-manager)](../../issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+[![Closed Issues](https://img.shields.io/github/issues-closed-raw/ethanthatonekid/acm-competition-manager)](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/ethanthatonekid/acm-competition-manager)](https://github.com/ethanthatonekid/acm-competition-manager/commits)
 
 ## Published Newsletters 📰
 
