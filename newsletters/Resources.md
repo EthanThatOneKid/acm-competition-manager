@@ -2,6 +2,8 @@
 
 > This document contains links to various resources for all types of topics regarding programming competitions.
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ### Programming Competitions 👀
 
 - [2020-2021 Major League Hacking Season Schedule](https://mlh.io/seasons/2021/events)
