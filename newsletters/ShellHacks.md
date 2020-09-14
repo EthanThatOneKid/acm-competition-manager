@@ -1,4 +1,4 @@
-# ShellHacks 2020 CSUF ACM Newsletter
+# ShellHacks 2020 CSUF ACM Newsletter 🐚
 
 > Last Updated: 9/14/2020 (Edits will appear at the bottom... ✨)
 
@@ -6,7 +6,7 @@ Hello ACM club members! It's Ethan, your ACM Competition Manager.
 
 Today I wanted to share some info with you about ShellHacks! 🎉
 
-## Acceptences 🙈
+## Acceptances 🙈
 
 Firstly, I will address that despite the virtual event beginning on Sep 25th (about 10 days from now as of 9/14/20), I heard that they are going to release their acceptance notices "in the next couple days" and I am hoping that everyone who applied gets into ShellHacks.
 
