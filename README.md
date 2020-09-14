@@ -9,15 +9,43 @@
 
 - [ShellHacks](newsletters/ShellHacks.md)
 
-## Contact Info 😎
+## Contact Info 🚀
 
 You can contact your competition manager via CSUF ACM's official [Discord server][discord-invite] (especially in the `hackathons` discussion text channel) or personal message, where my identifier is `EthanThatOneKid#3456`. You may also reach me via my academic email address, [ethandavidson@csu.fullerton.edu](mailto:ethandavidson@csu.fullerton.edu).
 
 ## Q&A 🧠
 
 [![Open Issues][ask-a-question-badge]][create-issue]
-_OR_
+|
 [![Closed Issues][read-answered-questions-badge]][closed-issues]
+
+## Awesome Competition Resources 😎
+
+### Programming Competitions 👀
+
+- [2020-2021 Major League Hacking Season Schedule](https://mlh.io/seasons/2021/events)
+- [Hackathons posted on DevPost](https://devpost.com/hackathons)
+- [Itch.io Game Jams](https://itch.io/jams)
+- [Google Coding Competitions](https://codingcompetitions.withgoogle.com/)
+  - [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)
+  - [Hash Code](https://codingcompetitions.withgoogle.com/hashcode/)
+  - [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+
+### Programming Problems 💪
+
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/)
+- [CodeSignal](https://codesignal.com/)
+
+### Programming Sandboxes 🔬
+
+- [p5 Editor](https://editor.p5js.org/)
+- [Glitch](https://glitch.com/)
+- [Codepen](https://codepen.io/)
+
+### Online Tools 🔥
+
+- [Regex 101](https://regex101.com/)
 
 ---
 
