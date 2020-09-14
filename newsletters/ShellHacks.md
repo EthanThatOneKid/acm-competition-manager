@@ -1,4 +1,4 @@
-# ShellHacks 2020 CSUF ACM Newsletter
+# ShellHacks 2020 CSUF ACM Newsletter 🐚
 
 > Last Updated: 9/14/2020 (Edits will appear at the bottom... ✨)
 
