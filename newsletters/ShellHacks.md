@@ -40,3 +40,32 @@ You can experience ShellHacks either as a lone wolf or as a team with up to 4 pe
 ## Final Thoughts... 🌜
 
 If you or a friend have any more questions or need to talk to someone about programming/computer science pertaining to the current state of ShellHacks, competitions, or in general, don't hesitate to shoot me a personal message and I will be happy to be a friendly face.
+
+## Edits 📝
+
+### 9/21/10 ~ Schedule and Team Mixer
+
+The ShellHacks schedule was released today in the [Hacker Guide](https://www.notion.so/ShellHacks-Hacker-Guide-bacc6f02b79540ba98b1b3aac18b6979) and can be viewed by registered participants, but I will paste it here:
+
+**Friday, September 25th**
+
+- 6pm - 7pm EST Check-In on Discord & Hopin
+- 7pm - 8pm EST Opening Ceremony on Hopin
+- 8pm - 10pm EST Sponsor Fair on Hopin
+- 10pm EST Hacking Begins
+- 10pm - 11pm EST Team Building Activity on Zoom
+- Workshops & Activities throughout the night
+
+**Saturday, September 26th**
+
+- Workshops & Activities throughout Saturday
+
+**Sunday, September 27th**
+
+- 10am EST Hacking Ends
+- 10am - 12pm EST Project Submissions on Devpost
+- 12pm - 2pm EST Judging
+- 2pm - 3pm EST Closing Ceremony on Hopin
+
+A team mixer will be held on the [CSUF ACM Discord server](https://discord.gg/27Ke9ax) at noon on Friday, September 25th for anyone who would like to join a hackathon team of other ACM members with similar interests. The team mixer will last for approximately 30 minutes to an hour. If you cannot make it at this time, message me (`@EthanThatOneKid#3456`) and I will help find you a well-fitting team. If you would like to plan a team with your friends beforehand, just know that the maximum amount of team members is 4.
+
