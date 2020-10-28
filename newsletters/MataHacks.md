@@ -31,7 +31,7 @@ MataHacks states: "We'll have a tool in the near future to get teams set up".
 
 ## About MataHacks ⚙️
 
-MataHacks is an event ran by a group of university students from CSUN, California State University, Northridge that are apart of different STEM clubs on campus that have come together to create this out of the goodness of our hearts.
+MataHacks is an event ran by a group of university students from CSUN, California State University, Northridge that are a part of different STEM clubs on campus that have come together to create this out of the goodness of their hearts.
 
 > IEEE and several other STEM clubs at CSUN are uniting to host the first 48-hour virtual Hackathon in which students will be able to create their own products and present them to representatives of different industries.
 > Students will be able to learn from mentors and STEM-industry experts throughout the event.
