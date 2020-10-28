@@ -4,6 +4,8 @@
 
 Hello ACM club members! It's Ethan, your ACM Competition Manager.
 
+MataHacks will take place **starting Friday, November 6th through Sunday, November 8th**.
+
 Today I wanted to share some info with you about MataHacks! 🎉
 MataHacks 2020 is a 48-hour, virtual event, taking place on Zoom and Discord, in which students will be able to create their own products and present them to representatives of different industries.
 
