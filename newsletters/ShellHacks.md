@@ -1,6 +1,6 @@
 # ShellHacks 2020 CSUF ACM Newsletter 🐚
 
-> Last Updated: 9/14/2020 (Edits will appear at the bottom... ✨)
+> Last Updated: 9/21/2020 (Edits will appear at the bottom... ✨)
 
 Hello ACM club members! It's Ethan, your ACM Competition Manager.
 
