@@ -13,7 +13,7 @@
 ## Published Newsletters 📰
 
 - [ShellHacks 🐚](newsletters/ShellHacks.md)
-- [MataHacks ⚙️](newsletters/Matahacks.md)
+- [MataHacks ⚙️](newsletters/MataHacks.md)
 - [Competition Resources 😎](newsletters/Resources.md)
 
 ## Contact Info 🚀
