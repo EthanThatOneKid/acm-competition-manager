@@ -15,6 +15,7 @@
 - [ShellHacks 🐚](newsletters/ShellHacks.md)
 - [MataHacks ⚙️](newsletters/MataHacks.md)
 - [Competition Resources 😎](newsletters/Resources.md)
+- [Upcoming Hackathons (November and December 2020) 🦃🎄](newsletters/Hackathons-NovDec2020.md)
 
 ## Contact Info 🚀
 
